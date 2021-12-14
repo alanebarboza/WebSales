@@ -20,9 +20,9 @@
 
 ### Configurações 
   * Alterar a string de conexão em appSettings.Json ConnectionStrings:SQLServer.
-  * 
+  
   * Usuário e Senha padrão: UserName: admin, PassWord: admin
-  * 
+  
   * A Migration será executada automaticamente ao inciar a aplicação, criando assim o DataBase e suas Tabelas.
 
 
