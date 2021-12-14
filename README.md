@@ -4,7 +4,7 @@
 <p align="center"> Uma API feita ASP.NET Core Web API com objetivo de efetuar um Processo de Vendas. <br> </p>
 				   
 
-### Features (Versão 1.0) 
+### Features
 
 - [x] CRUD - Sale/Product/User
 - [x] Entity Framework
